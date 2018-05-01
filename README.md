@@ -1,4 +1,4 @@
-# learning-go
+# Learning Go
 
 Books, tutorials
 * [The Go Programming Language Specification](https://golang.org/ref/spec)
